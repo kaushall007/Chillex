@@ -8,9 +8,9 @@ Movie Database: A collection of movies is included in the application, allowing 
 Responsive Design: The application is responsive and can adapt to different screen sizes, making it accessible on desktops, tablets, and mobile devices.
 
 <h3>Technologies Used</h3>
-HTML: Used for structuring the web pages and content.
-CSS: Employed for styling and layout of the application.
-JavaScript: Mainly utilized for implementing the movie recommendation system and providing interactivity.
+HTML: Used for structuring the web pages and content.<br>
+CSS: Employed for styling and layout of the application.<br>
+JavaScript: Mainly utilized for implementing the movie recommendation system and providing interactivity.<br>
 External Libraries: Utilized external libraries for enhanced functionality (e.g., jQuery for DOM manipulation)
 
 <h3>Installation</h3>
