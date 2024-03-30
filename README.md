@@ -32,3 +32,4 @@ Contributions to ChillFlix are welcome! If you have any ideas for improvements o
 
 <h3>License</h3>
 This project is licensed under the MIT License.
+<center><img src="Project\Chillex\Screenshot (123).png" align="center" height="350"></center>
