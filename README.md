@@ -1,11 +1,16 @@
 <h1><b>Welcome to ChillFlix </b>🍿</h1>
 ChillFlix is a web application similar to Netflix, where users can discover and watch movies. This project primarily focuses on utilizing HTML, CSS, and JavaScript to create a dynamic movie recommendation system.
+<br>
+  <center><img src="Project\Chillex\Screenshot (123).png" align="center" height="350"></center>
+<br>
+<h3>Features</h3>
+<ul>
+  <ol>Movie Recommendation System: ChillFlix utilizes advanced JavaScript algorithms to recommend movies to users based on their preferences and viewing history.</ol>
+  <ol>User-friendly Interface: The interface is designed to be intuitive and visually appealing, providing users with an enjoyable browsing experience.</ol>
+  <ol>Movie Database: A collection of movies is included in the application, allowing users to explore various genres and titles.</ol>
+  <ol>Responsive Design: The application is responsive and can adapt to different screen sizes, making it accessible on desktops, tablets, and mobile devices.</ol>
+</ul>
 
-<h3Features</h3>
-Movie Recommendation System: ChillFlix utilizes advanced JavaScript algorithms to recommend movies to users based on their preferences and viewing history.
-User-friendly Interface: The interface is designed to be intuitive and visually appealing, providing users with an enjoyable browsing experience.
-Movie Database: A collection of movies is included in the application, allowing users to explore various genres and titles.
-Responsive Design: The application is responsive and can adapt to different screen sizes, making it accessible on desktops, tablets, and mobile devices.
 
 <h3>Technologies Used</h3>
 HTML: Used for structuring the web pages and content.<br>
@@ -32,4 +37,3 @@ Contributions to ChillFlix are welcome! If you have any ideas for improvements o
 
 <h3>License</h3>
 This project is licensed under the MIT License.
-<center><img src="Project\Chillex\Screenshot (123).png" align="center" height="350"></center>
